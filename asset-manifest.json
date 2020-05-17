@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/Task-manager-react/static/css/main.0e632dbf.chunk.css",
+    "main.js": "/github.io/Task-manager-react/static/js/main.1134caa0.chunk.js",
+    "main.js.map": "/github.io/Task-manager-react/static/js/main.1134caa0.chunk.js.map",
+    "runtime-main.js": "/github.io/Task-manager-react/static/js/runtime-main.8d37931c.js",
+    "runtime-main.js.map": "/github.io/Task-manager-react/static/js/runtime-main.8d37931c.js.map",
+    "static/js/2.5da9c37c.chunk.js": "/github.io/Task-manager-react/static/js/2.5da9c37c.chunk.js",
+    "static/js/2.5da9c37c.chunk.js.map": "/github.io/Task-manager-react/static/js/2.5da9c37c.chunk.js.map",
+    "index.html": "/github.io/Task-manager-react/index.html",
+    "precache-manifest.2200b7482d1258abe49af96571761a83.js": "/github.io/Task-manager-react/precache-manifest.2200b7482d1258abe49af96571761a83.js",
+    "service-worker.js": "/github.io/Task-manager-react/service-worker.js",
+    "static/css/main.0e632dbf.chunk.css.map": "/github.io/Task-manager-react/static/css/main.0e632dbf.chunk.css.map",
+    "static/js/2.5da9c37c.chunk.js.LICENSE.txt": "/github.io/Task-manager-react/static/js/2.5da9c37c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d37931c.js",
+    "static/js/2.5da9c37c.chunk.js",
+    "static/css/main.0e632dbf.chunk.css",
+    "static/js/main.1134caa0.chunk.js"
+  ]
+}
